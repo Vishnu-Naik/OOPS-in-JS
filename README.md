@@ -1,1 +1,1 @@
-# OOPS-in-JS
+In this repository I will be preserving my Object Oriented JS Exercises 
